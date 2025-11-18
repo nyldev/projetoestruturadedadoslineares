@@ -1,4 +1,3 @@
-#ifndef HASH_H
 #define HASH_H
 
 #define TAM_USERNAME 50
@@ -33,4 +32,3 @@ void cadastrarUsuario(Hash *h);
 void loginUsuario(Hash *h);
 void removerUsuario(Hash *h);
 
-#endif
